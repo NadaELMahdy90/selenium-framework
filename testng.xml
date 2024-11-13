@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Task" parallel="true">
+    <test name="Test">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.ProductTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

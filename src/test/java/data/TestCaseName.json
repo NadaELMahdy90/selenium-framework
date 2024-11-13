@@ -1,0 +1,11 @@
+{
+  "login" : 0,
+  "loginWithStandardUserAndValidPass" : 1,
+  "loginWithStandardUserAndInvalidPass" : 2,
+  "loginWithInvalidStandardUserAndValidPass" : 3,
+  "loginWithProblemUserAndValidPass" : 4,
+  "loginWithPerformanceUserAndValidPass" : 5,
+  "loginWithVisualUserAndValidPass" : 6,
+  "loginWithLockedUserAndValidPass" : 7,
+  "verifyLogOut" : 8
+}
